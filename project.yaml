@@ -1,0 +1,64 @@
+# .project metadata for Confidential Containers
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+# TODO: Add package_managers if distributed via registries
+
+schema_version: "1.0.0"
+slug: "confidential-containers"
+name: "Confidential Containers"
+description: "Confidential Containers is an open source community working to enable cloud native  confidential computing by leveraging Trusted Execution Environments to protect  containers and data."
+type: "project"
+project_lead: "arronwy" # TODO: AUTO-DETECTED — please verify
+cncf_slack_channel: "#confidential-containers" # TODO: AUTO-DETECTED — please verify
+
+maturity_log:
+  - phase: "sandbox"
+    date: "2022-03-08T00:00:00Z"
+    issue: "https://github.com/cncf/toc/pull/1084" # TODO: AUTO-DETECTED — please verify
+
+repositories:
+  - "https://github.com/confidential-containers/confidential-containers"
+
+website: "https://confidentialcontainers.org/"
+
+artwork: "https://landscape.cncf.io/logos/confidential-containers.svg"
+
+adopters:
+  path: "https://github.com/confidential-containers/confidential-containers/blob/main/ADOPTERS.md"
+
+# TODO: Add package manager identifiers if your project is distributed via registries
+# package_managers:
+#   docker: "confidential-containers/confidential-containers"
+
+
+security:
+  policy:
+    path: "https://github.com/confidential-containers/.github/blob/main/SECURITY.md"
+  contact:
+    advisory_url: "https://github.com/confidential-containers/confidential-containers/security/advisories/new"
+
+governance:
+  contributing:
+    path: "https://github.com/confidential-containers/.github/blob/main/CONTRIBUTING.md"
+  code_of_conduct:
+    path: "https://github.com/confidential-containers/confidential-containers/blob/main/CODE_OF_CONDUCT.md"
+
+legal:
+  license:
+    path: "https://github.com/confidential-containers/confidential-containers/blob/main/LICENSE"
+  identity_type:
+    has_dco: true # AUTO-DETECTED — please verify
+    has_cla: false # AUTO-DETECTED — please verify
+    dco_url:
+      path: "https://developercertificate.org/"
+
+documentation:
+  readme:
+    path: "https://github.com/confidential-containers/confidential-containers/blob/main/README.md"
+
+landscape:
+  category: "Provisioning"
+  subcategory: "Security & Compliance"
+
+# CLOMonitor Score: 91/100
+# Documentation: 98 | License: 100 | Best Practices: 62 | Security: 100
