@@ -1,0 +1,21 @@
+# Maintainer roster for Confidential Containers
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+maintainers:
+  - project_id: "confidential-containers"
+    org: "confidential-containers"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - arronwy
+          - jiangliu
+          - lumjjb
+          - sameo
+          - attestation-service-maintainers
+          - linux-audit
+          - linux-can
+          - mkrufky
+          - netlabel
+          - selinuxproject
+          - v9fs

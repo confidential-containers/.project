@@ -1,0 +1,3 @@
+# CODEOWNERS for .project metadata repository
+# Changes to project metadata require maintainer review.
+* @arronwy @jiangliu @lumjjb @sameo @attestation-service-maintainers @linux-audit @linux-can @mkrufky @netlabel @selinuxproject @v9fs 
