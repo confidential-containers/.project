@@ -1,0 +1,23 @@
+# Maintainer roster for Confidential Containers
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+maintainers:
+  - project_id: "confidential-containers"
+    org: "confidential-containers"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - ariel-adam
+          - bpradipt
+          - bsulich2
+          - danmihai1
+          - fitzthum
+          - hgowda-amd
+          - jiazhang0
+          - magowan
+          - mkulke
+          - mythi
+          - ngoradia
+          - sameo
+          - zvonkok
