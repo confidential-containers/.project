@@ -8,14 +8,16 @@ maintainers:
     teams:
       - name: "project-maintainers"
         members:
-          - arronwy
-          - jiangliu
-          - lumjjb
+          - ariel-adam
+          - bpradipt
+          - bsulich2
+          - danmihai1
+          - fitzthum
+          - hgowda-amd
+          - jiazhang0
+          - magowan
+          - mkulke
+          - mythi
+          - ngoradia
           - sameo
-          - attestation-service-maintainers
-          - linux-audit
-          - linux-can
-          - mkrufky
-          - netlabel
-          - selinuxproject
-          - v9fs
+          - zvonkok
