@@ -24,7 +24,7 @@ repositories:
 
 website: "https://confidentialcontainers.org/"
 
-artwork: "https://landscape.cncf.io/logos/confidential-containers.svg"
+artwork: "https://github.com/cncf/artwork/blob/main/projects/confidential-containers/icon/color/confidential-containers-icon.svg"
 
 adopters:
   path: "https://github.com/confidential-containers/confidential-containers/blob/main/ADOPTERS.md"
