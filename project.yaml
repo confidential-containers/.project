@@ -9,7 +9,9 @@ name: "Confidential Containers"
 description: "Confidential Containers is an open source community working to enable cloud native confidential computing by leveraging Trusted Execution Environments to protect containers and data."
 type: "project"
 project_lead: "" #
-cncf_slack_channel: "#confidential-containers" #
+slack_channels:
+  - name: "#confidential-containers"
+    primary: true
 
 maturity_log:
   - phase: "sandbox"
